@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Bird",
+    "maps": [
+        {
+            "name": "Birdy",
+            "id": "9843a155-04d5-427c-8566-d3913290db49",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "1b76642a-8ba8-45de-92dc-67eb0753f1e9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "64e950d7-8f78-4240-ae81-18c48f846a41",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
